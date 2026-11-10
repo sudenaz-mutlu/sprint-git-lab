@@ -1,4 +1,5 @@
-public class Calculator {
+public class Calculator {// branch değisikligi
+
     public static int add(int a, int b) {
         return a + b;
     }
@@ -14,3 +15,5 @@ public class Calculator {
         System.out.println("5 * 3 = " + multiply(5, 3));
     }
 }
+//TODO: BU satırı yarım bıraktım
+
