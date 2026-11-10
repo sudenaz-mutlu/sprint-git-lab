@@ -1,4 +1,6 @@
-public class Calculator {//main degisikligi
+
+public class Calculator {
+public class Calculator {
 
 
     public static int add(int a, int b) {
@@ -16,3 +18,5 @@ public class Calculator {//main degisikligi
         System.out.println("5 * 3 = " + multiply(5, 3));
     }
 }
+//TODO: BU satırı yarım bıraktım
+
