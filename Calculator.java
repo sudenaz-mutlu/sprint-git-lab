@@ -1,4 +1,6 @@
-public class Calculator {
+public class Calculator {//main degisikligi
+
+
     public static int add(int a, int b) {
         return a + b;
     }
